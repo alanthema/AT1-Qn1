@@ -1,26 +1,13 @@
 #Author: Alan  
-
 #Date 11/11/2020 
-
 #Version: 1.0 
-
 # 
-
 #Guess the randomn number game 
-
-#One player vs. the computer 
-
- 
- 
+#One player vs. the computer  
 
 import random 
-
 minGuess= 1 
-
-maxGuess= 6 
-
- 
- 
+maxGuess= 6  
 
 #Ask the user for their their name and their guess  
 
